@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "firebase deploy --only firestore:rules,storage": "pavlino-727a9"
+  },
+  "targets": {},
+  "etags": {}
+}

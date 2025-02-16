@@ -1,14 +1,24 @@
 env:
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
+    value: AIzaSyBuKIGsdUwYfn9CNAYXehpCRK9
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
+    value: pavlino-727a9.firebaseapp.com
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
+    value: pavlino-727a9
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
+    value: pavlino-727a9.firebasestorage.app
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
+    value: 323246901735
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+    value: 1:323246901735:web:fb090ee6ff02933d50d542
+
+#     const firebaseConfig = {
+#   apiKey: "AIzaSyBuKIGsdUwYfn9CNAYXehpCRK9-bjsY5-U",
+#   authDomain: "pavlino-727a9.firebaseapp.com",
+#   projectId: "pavlino-727a9",
+#   storageBucket: "pavlino-727a9.firebasestorage.app",
+#   messagingSenderId: "323246901735",
+#   appId: "1:323246901735:web:fb090ee6ff02933d50d542",
+#   measurementId: "G-TXHFS87R46"
+# };
